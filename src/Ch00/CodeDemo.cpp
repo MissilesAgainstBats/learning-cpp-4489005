@@ -1,5 +1,5 @@
 // Learning C++ 
-// Exercise 00_03
+// Exercise 00_03 modified by Missiles
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
 #include <iostream>
@@ -15,6 +15,7 @@ int main(){
     result = num_1 + num_2;
     
     std::cout << "The result of the addition is " << result << std::endl;
+    std::cout << "Good jorb!" << std::endl;
     
     std::cout << std::endl << std::endl;
     return (0);
